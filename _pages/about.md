@@ -15,7 +15,7 @@ news: true
 social: true
 ---
 
-My research centers around the efficiency and scalability issues of next-generation micro-processors for the emerging planet-scale applications. With domain specific architecture and kilo-scale networks, *I believe the future heterogeneous manycore micorprocessor would provide unprecedented computation power and efficiency, empowering us to better acquire, process and understand the information of the world.* 
+Centers around the efficiency and scalability of next-generation micro-processors for the emerging planet-scale applications. With domain specific architecture and kilo-scale networks, *I believe the future heterogeneous manycore micorprocessor would provide unprecedented computation power and efficiency, empowering us to better acquire, process and understand the information of the world.* 
 
 I have spent my last 10 years in pursuing this goal, taped out multiple novel microprocessor along 
 with the toolchains/runtime support, 
