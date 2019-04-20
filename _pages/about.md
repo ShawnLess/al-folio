@@ -19,7 +19,7 @@ Centers around the efficiency and scalability of next-generation micro-processor
 
 I have spent my last 10 years in pursuing this goal, taped out multiple novel microprocessor along 
 with the toolchains/runtime support, 
-including a DSP architecture with Ultra VLIW (14 slots) and CGRA feature, 
+including the [MaPU](/projects/mapu) architecture with Ultra VLIW (14 slots) and CGRA feature, 
 and a 511 RISC-V core chip with record-breaking benchmark scores. 
 
 Recently, I'm interested in open source processor architecture (RISC-V), and hardware/software stack of Domain Specific Accelerator (DSP, Deep Learning, Data Center, IoT).
