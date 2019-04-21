@@ -44,13 +44,12 @@ Complete source code can be found at [https://github.com/mapu/toolchains.git](ht
     Left: Layout of a MaPU Core. Right: Packaged 40nm chip.
 </div>
 
-## Testing PCB and Performance
+## Chip Performance
 <div class="img_row">
-    <img class="one three left" src="{{ site.baseurl }}/assets/img/MaPU_PCB.jpg" alt="" title="MaPU PCB"/>
-    <img class="two three left" src="{{ site.baseurl }}/assets/img/MaPU_Performance.svg" alt="" title="MaPU Performance"/>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/MaPU_Performance.svg" alt="" title="MaPU Performance"/>
 </div>
 <div class="col three caption">
-    Left: Prototype PCB. Right: Performance chart. 
+    Performance chart. 
 </div>
 
 ## Publication
